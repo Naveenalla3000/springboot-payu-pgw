@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.naveen</groupId>
-    <artifactId>pauy-pwg-back</artifactId>
+    <artifactId>payu-pwg-back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>payu-pwg-back</name>
     <description>payu-pwg-back</description>
